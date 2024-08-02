@@ -247,6 +247,16 @@ magnet:?xt=urn:btih:705f9ee294d70c36ef761caec62736a872427706
 magnet:?xt=urn:btih:f238f87ae717c7292ba43640b7fe110fee0eea1c
 0124.粤语怀旧经典800首_08
 magnet:?xt=urn:btih:968fe87945943410cdae91a7a797c038093cfd11
+0125.钢琴纯音乐迷必备歌单
+magnet:?xt=urn:btih:0dd90803a2e2ae9baa92eedf199d4cac999e7fad
+0126.五行音乐养生绝版320k
+magnet:?xt=urn:btih:3ef78386a0da6d115ccfc49f5a358c6a4cc69093
+0127.养生音乐.阿尔法α脑波音乐
+magnet:?xt=urn:btih:0f2aea3f18529effafd97592aca80c8cd0e5b7ca
+0128.QQ音乐付费经典华语225首高码率MP3格式
+magnet:?xt=urn:btih:bbbfe545affb0b5c6b27537a1dae187b26fbf67a
+0129.大自然流水安神助眠白噪音深度睡眠放松减压瑜伽音乐高码率mp3
+magnet:?xt=urn:btih:d768bcfefeb687db1e473101522ccb40dbb28524
 ==========================================================================
 磁力链接（Magnet URI scheme），是对等网络中进行信息检索和下载文档的电脑程序。和基于“位置”连接的统一资源定位符（URL）不同，磁力链接是基于元数据（metadata）文件内容，属于统一资源名称（URN）。也就是说，磁力链接不基于文档的IP地址或定位符，而是在分布式数据库中，通过散列函数值来识别、搜索来下载文档。因为不依赖一个处于启动状态的主机来下载文档，所以特别适用没有中心服务器的对等网络。举例来说，一个常见的磁力链接形式为“magnet:?xt=urn:btih:”开头字符串。
 磁力链接有如下优势：
